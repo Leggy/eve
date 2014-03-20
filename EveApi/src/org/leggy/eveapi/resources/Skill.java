@@ -2,7 +2,7 @@ package org.leggy.eveapi.resources;
 
 import com.beimin.eveapi.eve.skilltree.ApiSkill;
 
-public class Skill implements Comparable{
+public class Skill implements Comparable<Skill> {
 
 	private int typeID;
 	private String name;
@@ -11,8 +11,8 @@ public class Skill implements Comparable{
 	private SkillGroup group;
 
 	// todo required skills
-	
-	public Skill(ApiSkill skill, SkillGroup group){
+
+	public Skill(ApiSkill skill, SkillGroup group) {
 		this.typeID = skill.getTypeID();
 		this.name = skill.getTypeName();
 		this.description = skill.getDescription();
@@ -44,8 +44,6 @@ public class Skill implements Comparable{
 		return description;
 	}
 
-
-
 	/**
 	 * 
 	 * @return
@@ -53,19 +51,22 @@ public class Skill implements Comparable{
 	public int getRank() {
 		return rank;
 	}
-	
+
 	/**
 	 * 
 	 * @return
 	 */
-	public SkillGroup getGroup(){
+	public SkillGroup getGroup() {
 		return group;
 	}
 
+
 	@Override
-	public int compareTo(Object o) {
-		// TODO Auto-generated method stub
-		return 0;
+	public int compareTo(Skill skill) {
+		if (skill == null) {
+			throw new NullPointerException();
+		}
+		return this.name.toLowerCase().compareTo(skill.name.toLowerCase());
 	}
 
 }

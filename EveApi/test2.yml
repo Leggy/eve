@@ -1,0 +1,15 @@
+name: Osprey Logi
+requirements:
+ - skill: 3442
+   level: 4
+ - skill: 3429
+   level: 2
+---
+
+name: Archon Logi
+requirements:
+ - skill: 5555
+   level: 4
+ - skill: 6666
+   level: 2
+---

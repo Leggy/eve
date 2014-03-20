@@ -1,6 +1,6 @@
 package org.leggy.eveapi.resources;
 
-import java.util.ArrayList;
+
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.LinkedList;
@@ -15,13 +15,19 @@ import com.beimin.eveapi.eve.skilltree.SkillTreeResponse;
 import com.beimin.eveapi.exception.ApiException;
 
 public class SkillTree {
-	
-	public static void main(String args[]){
-		skillTree();
-	}
-	
 
-	public List<SkillGroup> getSkillTree() {
+	public static void main(String args[]) {
+		List<SkillGroup> skillGroups = getSkillTree();
+		for(SkillGroup group : skillGroups){
+			System.out.println(group.getName());
+			for(Skill skill : group.getSkills()){
+				System.out.println("    " + skill.getName());
+			}
+		}
+	}
+
+
+	private static Set<ApiSkillGroup> getSkillGroupSet() {
 		SkillTreeParser parser = SkillTreeParser.getInstance();
 		SkillTreeResponse response = null;
 		try {
@@ -30,73 +36,56 @@ public class SkillTree {
 			System.out.println("exception");
 		}
 
-		return null;
+		return response.getAll();
 
 	}
-	
 
+	public static List<SkillGroup> getSkillTree() {
 
-	private static void skillTree() {
-		List<SkillGroup> skillGroups = new LinkedList<SkillGroup>();
-
-		SkillTreeParser parser = SkillTreeParser.getInstance();
-		SkillTreeResponse response = null;
-		try {
-			response = parser.getResponse();
-		} catch (ApiException e) {
-			System.out.println("exception");
-		}
-
-		Set<ApiSkillGroup> groups = response.getAll();
-
-		Map<ApiSkillGroup, List<ApiSkill>> grps = new HashMap<ApiSkillGroup, List<ApiSkill>>();
+		Map<Integer, List<ApiSkill>> groupSkills = new HashMap<Integer, List<ApiSkill>>();
+		Map<Integer, ApiSkillGroup> groupIDs = new HashMap<Integer, ApiSkillGroup>();
 		List<ApiSkill> temp = null;
-		
-		ApiSkillGroup g1 = null;
-		ApiSkillGroup g2 = null;
 
-		for (ApiSkillGroup group : groups) {
-			if(group.getGroupID() == 1213){
-				if(g1 == null){
-					g1 = group;
-				} else if(g2 == null){
-					g2 = group;
-				}
-			}
-			if(g1 != null && g2 != null){
-				System.out.println("Group 1: " + g1.getGroupID());
-				System.out.println("Group 2: " + g2.getGroupID());
-				System.out.println("Equals: " + g1.equals(g2));
-			}
-			/*
-			 * If the ApiSkillGroup exists, get it, else initialise a new one
-			 */
-			if (grps.containsKey(group.getGroupID())) {
-				temp = grps.get(group.getGroupID());
-			} else {
-				temp = new LinkedList<ApiSkill>();
-				//grps.put(group.getGroupID(), temp);
-			}
-
-			for (ApiSkill skill : group.getSkills()) {
+		for (ApiSkillGroup group : getSkillGroupSet()) {
+			if (group.getGroupID() != 505) {
 				/*
-				 * For each skill in the group, if it it published, then add it
-				 * to the list.
+				 * If the ApiSkillGroup exists, get it, else initialise a new
+				 * one
 				 */
-				if (skill.isPublished()) {
-					temp.add(skill);
+				if (groupSkills.containsKey(group.getGroupID())) {
+					temp = groupSkills.get(group.getGroupID());
+				} else {
+					temp = new LinkedList<ApiSkill>();
+					groupSkills.put(group.getGroupID(), temp);
+					if (!groupIDs.containsKey(group.getGroupID())) {
+						groupIDs.put(group.getGroupID(), group);
+					}
+				}
+
+				for (ApiSkill skill : group.getSkills()) {
+					/*
+					 * For each skill in the group, if it it published, then add
+					 * it to the list.
+					 */
+					if (skill.isPublished()) {
+						temp.add(skill);
+					}
 				}
 			}
 		}
-
-		for (ApiSkillGroup key : grps.keySet()) {
-			//System.out.println(key.getGroupName());
-			Collections.sort(grps.get(key));
-			for (ApiSkill skill : grps.get(key)) {
-				//System.out.println("    " + skill.getTypeName());
-			}
+		
+		return convertGroups(groupSkills, groupIDs);
+	}
+	
+	
+	private static List<SkillGroup> convertGroups(Map<Integer, List<ApiSkill>> groupSkills, Map<Integer, ApiSkillGroup> groupIDs){
+		List<SkillGroup> skillList = new LinkedList<SkillGroup>();
+		
+		for(Integer id : groupSkills.keySet()) {
+			skillList.add(new SkillGroup(groupIDs.get(id), groupSkills.get(id)));
 		}
-
+		Collections.sort(skillList);
+		return skillList;
 	}
 
 }
