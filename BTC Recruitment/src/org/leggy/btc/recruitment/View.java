@@ -1,6 +1,7 @@
-package org.leggy.btc.recruitment.view;
+package org.leggy.btc.recruitment;
 
 import java.awt.Dimension;
+import java.awt.Font;
 import java.awt.GridLayout;
 
 import javax.swing.BorderFactory;
@@ -13,8 +14,7 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
 
-import org.leggy.btc.recruitment.controller.GenerateReportListener;
-import org.leggy.btc.recruitment.controller.OpenReportListener;
+
 
 public class View extends JPanel {
 
@@ -65,7 +65,8 @@ public class View extends JPanel {
 
 		
 		console = new JTextArea(10, 40);
-		JScrollPane consolePane = new JScrollPane(console); 
+		JScrollPane consolePane = new JScrollPane(console);
+		console.setFont(new Font("Courier New", Font.PLAIN, 13));
 		console.setEditable(false);
 		//consolePane.setVerticalScrollBarPolicy(JScrollPane.BOTTOM_ALIGNMENT);
 		//DefaultCaret caret = (DefaultCaret)console.getCaret();

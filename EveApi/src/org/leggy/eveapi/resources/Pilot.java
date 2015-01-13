@@ -99,7 +99,7 @@ public class Pilot {
 		report.add("Corporation: " + this.corpName);
 		report.add("Wallet Balance: "
 				+ NumberFormat.getCurrencyInstance().format(this.balance));
-		report.add("Total Skill Points " + this.skillPoints);
+		report.add("Total Skill Points " + NumberFormat.getNumberInstance().format(this.skillPoints));
 		report.add(urlInfo(this.name));
 		report.add("");
 		report.add("[b]Attributes[/b]");

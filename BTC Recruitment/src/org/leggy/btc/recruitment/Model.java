@@ -1,7 +1,6 @@
-package org.leggy.btc.recruitment.model;
+package org.leggy.btc.recruitment;
 
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
@@ -10,9 +9,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-import org.leggy.btc.recruitment.exceptions.AccessMaskException;
-import org.leggy.btc.recruitment.exceptions.AccountKeyException;
-import org.leggy.btc.recruitment.exceptions.ConnectionException;
+import org.leggy.btc.recruitment.exceptions.*;
 import org.leggy.eveapi.resources.CharacterReport;
 import org.leggy.eveapi.resources.Pilot;
 

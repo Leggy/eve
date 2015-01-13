@@ -1,4 +1,4 @@
-package org.leggy.btc.recruitment.controller;
+package org.leggy.btc.recruitment;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -6,8 +6,6 @@ import java.awt.event.ActionListener;
 import org.leggy.btc.recruitment.exceptions.AccessMaskException;
 import org.leggy.btc.recruitment.exceptions.AccountKeyException;
 import org.leggy.btc.recruitment.exceptions.ConnectionException;
-import org.leggy.btc.recruitment.model.Model;
-import org.leggy.btc.recruitment.view.View;
 
 public class GenerateReportListener implements ActionListener {
 

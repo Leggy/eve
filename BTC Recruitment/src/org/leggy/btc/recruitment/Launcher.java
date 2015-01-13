@@ -1,19 +1,16 @@
 package org.leggy.btc.recruitment;
 
-
-
-
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
-import org.leggy.btc.recruitment.controller.GenerateReportListener;
-import org.leggy.btc.recruitment.controller.OpenReportListener;
-import org.leggy.btc.recruitment.model.Model;
-import org.leggy.btc.recruitment.view.View;
-
 public class Launcher {
 
-	private static final double version = 0.2;
+	/*
+	 * TODO: Filename field; Invalid API Response; Format output numbers
+	 * (http://docs.oracle.com/javase/tutorial/i18n/format/decimalFormat.html);
+	 */
+
+	private static final double version = 0.3;
 
 	private static final String title = "BTC Recruitment Character Report | Version "
 			+ version;
@@ -42,15 +39,13 @@ public class Launcher {
 			frame.setTitle(title);
 			frame.setPreferredSize(View.size);
 
-			
 			icon = new ImageIcon(getClass().getResource("/logo.png"));
-			
-			if(icon != null){
+
+			if (icon != null) {
 				frame.setIconImage(icon.getImage());
 				// Sets the icon image of the window.
 			}
 
-			
 		}
 	}
 

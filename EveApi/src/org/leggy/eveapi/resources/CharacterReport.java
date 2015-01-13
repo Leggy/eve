@@ -7,6 +7,7 @@ import java.util.List;
 import com.beimin.eveapi.account.apikeyinfo.ApiKeyInfoParser;
 import com.beimin.eveapi.account.apikeyinfo.ApiKeyInfoResponse;
 import com.beimin.eveapi.account.characters.EveCharacter;
+import com.beimin.eveapi.character.killlog.KillLogParser;
 import com.beimin.eveapi.character.sheet.CharacterSheetParser;
 import com.beimin.eveapi.character.sheet.CharacterSheetResponse;
 import com.beimin.eveapi.core.ApiAuthorization;
@@ -35,11 +36,19 @@ public class CharacterReport {
 
 		if (!response.isAccountKey()) {
 			return 1;
-		} else if (response.getAccessMask() != 264) {
+		} else if (checkAccessMask((int)response.getAccessMask())) {
 			return 2;
 		} else {
 			return 0;
 		}
+	}
+	
+	private static boolean checkAccessMask(int mask){
+		/*
+		 * Kill log = 256
+		 * Charactersheet = 8
+		 */
+		return ((mask & 256) > 0 && (mask & 8) > 0);
 	}
 
 	public static List<Pilot> getPilots(int keyID, String code) {
@@ -63,6 +72,7 @@ public class CharacterReport {
 
 		CharacterSheetParser parser = CharacterSheetParser.getInstance();
 		CharacterSheetResponse response = null;
+		
 		try {
 			response = parser.getResponse(auth);
 		} catch (ApiException e) {

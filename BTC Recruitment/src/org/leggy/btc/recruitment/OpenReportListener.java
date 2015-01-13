@@ -1,11 +1,8 @@
-package org.leggy.btc.recruitment.controller;
+package org.leggy.btc.recruitment;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
-
-import org.leggy.btc.recruitment.model.Model;
-import org.leggy.btc.recruitment.view.View;
 
 public class OpenReportListener implements ActionListener {
 
