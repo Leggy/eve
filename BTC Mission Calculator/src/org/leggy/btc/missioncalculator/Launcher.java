@@ -1,4 +1,4 @@
-package org.leggy.btc.recruitment;
+package org.leggy.btc.missioncalculator;
 
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
@@ -10,9 +10,9 @@ public class Launcher {
 	 * (http://docs.oracle.com/javase/tutorial/i18n/format/decimalFormat.html);
 	 */
 
-	private static final double version = 0.3;
+	private static final double version = 0.1;
 
-	private static final String title = "BTC Recruitment Character Report | Version "
+	private static final String title = "BTC Mission Calculator Report | Version "
 			+ version;
 	private static ImageIcon icon;
 

@@ -1,0 +1,374 @@
+Name (ID): Laura Agathon (91930985)
+Race: Gallente
+Corporation: Black Thorne Corporation
+Wallet Balance: $667,791.57
+Total Skill Points 26651763
+[url=https://gate.eveonline.com/Profile/Laura Agathon]Eve Gate[/url] | [url=http://evewho.com/pilot/Laura Agathon]Eve Who[/url] | [url=http://www.eve-search.com/search/author/Laura Agathon]Eve Search[/url] | [url=http://eve.battleclinic.com/killboard/combat_record.php?type=player&name=Laura Agathon]Battle Clinic Killboard[/url]
+
+[b]Attributes[/b]
+Intelligence: 20
+Memory: 20
+Charisma: 19
+Perception: 20
+Willpower: 20
+
+[b]Implants[/b]:
+Cybernetic Subprocessor - Standard
+Memory Augmentation - Standard
+Neural Boost - Standard
+Ocular Filter - Standard
+Social Adaptation Chip - Standard
+
+[b]Skills[/b]
+[i]Armor[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Armor Layering
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Armor Resistance Phasing
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] EM Armor Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Explosive Armor Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Hull Upgrades
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Kinetic Armor Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Mechanics
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Remote Armor Repair Systems
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Remote Hull Repair Systems
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Repair Systems
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Thermic Armor Compensation
+
+[i]Corporation Management[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Anchoring
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Corporation Management
+
+[i]Drones[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Amarr Drone Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Caldari Drone Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Combat Drone Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Drone Durability
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Drone Interfacing
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Drone Navigation
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Drone Sharpshooting
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Drones
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Electronic Warfare Drone Interfacing
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Gallente Drone Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Heavy Drone Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Mining Drone Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Minmatar Drone Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Repair Drone Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Salvage Drone Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Scout Drone Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Sentry Drone Interfacing
+
+[i]Electronic Systems[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Cloaking
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Electronic Warfare
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Frequency Modulation
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Long Distance Jamming
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Propulsion Jamming
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Sensor Linking
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Target Breaker Amplification
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Target Painting
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Weapon Disruption
+
+[i]Engineering[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Capacitor Emission Systems
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Capacitor Management
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Capacitor Systems Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] CPU Management
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Electronics Upgrades
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Energy Grid Upgrades
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Energy Pulse Weapons
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Nanite Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Power Grid Management
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Weapon Upgrades
+
+[i]Gunnery[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Controlled Bursts
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Gunnery
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Large Energy Turret
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Large Projectile Turret
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Medium Artillery Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Medium Energy Turret
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Medium Hybrid Turret
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Medium Projectile Turret
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Motion Prediction
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Rapid Firing
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Sharpshooter
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Small Artillery Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Small Autocannon Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Small Beam Laser Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Small Energy Turret
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Small Hybrid Turret
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Small Projectile Turret
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Small Pulse Laser Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Surgical Strike
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Trajectory Analysis
+
+[i]Leadership[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Armored Warfare
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Information Warfare
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Leadership
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Mining Foreman
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Siege Warfare
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Skirmish Warfare
+
+[i]Missiles[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Auto-Targeting Missiles
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Bomb Deployment
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Cruise Missiles
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Defender Missiles
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Guided Missile Precision
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Heavy Assault Missiles
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Heavy Missile Specialization
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Heavy Missiles
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Light Missiles
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Missile Bombardment
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Missile Launcher Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Missile Projection
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Rapid Launch
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Rockets
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Target Navigation Prediction
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Torpedoes
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Warhead Upgrades
+
+[i]Navigation[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Acceleration Control
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Afterburner
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Cynosural Field Theory
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Evasive Maneuvering
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Fuel Conservation
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] High Speed Maneuvering
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Micro Jump Drive Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Navigation
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Warp Drive Operation
+
+[i]Neural Enhancement[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Biology
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Cybernetics
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Infomorph Psychology
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Infomorph Synchronizing
+
+[i]Planet Management[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Command Center Upgrades
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Interplanetary Consolidation
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Planetology
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Remote Sensing
+
+[i]Production[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Advanced Mass Production
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Frigate Construction
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Industrial Construction
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Industry
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Mass Production
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Material Efficiency
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Supply Chain Management
+
+[i]Resource Processing[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Astrogeology
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Gas Cloud Harvesting
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Ice Harvesting
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Mining
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Mining Upgrades
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Plagioclase Processing
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Pyroxeres Processing
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Refining
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Salvaging
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Scordite Processing
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Veldspar Processing
+
+[i]Rigging[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Armor Rigging
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Astronautics Rigging
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Drones Rigging
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Electronic Superiority Rigging
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Energy Weapon Rigging
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Hybrid Weapon Rigging
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Jury Rigging
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Launcher Rigging
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Projectile Weapon Rigging
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Shield Rigging
+
+[i]Scanning[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Archaeology
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Astrometric Acquisition
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Astrometric Rangefinding
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Astrometrics
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Hacking
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Survey
+
+[i]Science[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Advanced Laboratory Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Amarr Encryption Methods
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Caldari Encryption Methods
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Gallente Encryption Methods
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Laboratory Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Mechanical Engineering
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Metallurgy
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Minmatar Encryption Methods
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Plasma Physics
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Quantum Physics
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Research
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Science
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Scientific Networking
+
+[i]Shields[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] EM Shield Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Explosive Shield Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Kinetic Shield Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Shield Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Shield Emission Systems
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Shield Management
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Shield Operation
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Shield Upgrades
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Tactical Shield Manipulation
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Thermic Shield Compensation
+
+[i]Social[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Connections
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Diplomacy
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Negotiation
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Security Connections
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Social
+
+[i]Spaceship Command[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Amarr Battlecruiser
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Amarr Battleship
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Amarr Cruiser
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Amarr Destroyer
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Amarr Frigate
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Assault Frigates
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Caldari Battlecruiser
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Caldari Battleship
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Caldari Cruiser
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Caldari Destroyer
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Caldari Frigate
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Caldari Industrial
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Covert Ops
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Electronic Attack Ships
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Gallente Battlecruiser
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Gallente Battleship
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Gallente Cruiser
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Gallente Destroyer
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Gallente Frigate
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Gallente Industrial
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Mining Barge
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Mining Frigate
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Minmatar Battlecruiser
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Minmatar Battleship
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Minmatar Cruiser
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Minmatar Destroyer
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Minmatar Frigate
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Minmatar Industrial
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] ORE Industrial
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Spaceship Command
+
+[i]Subsystems[/i]
+No skills found
+
+[i]Targeting[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Advanced Target Management
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Gravimetric Sensor Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Ladar Sensor Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level4.gif[/img] Long Range Targeting
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Magnetometric Sensor Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Radar Sensor Compensation
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Signature Analysis
+[img]http://myeve.eve-online.com/bitmaps/character/level5.gif[/img] Target Management
+
+[i]Trade[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Broker Relations
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Contracting
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Marketing
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Retail
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Trade
+
+
+Name (ID): Loki Agathon (92185334)
+Race: Amarr
+Corporation: Viziam
+Wallet Balance: $0.00
+Total Skill Points 72074
+[url=https://gate.eveonline.com/Profile/Loki Agathon]Eve Gate[/url] | [url=http://evewho.com/pilot/Loki Agathon]Eve Who[/url] | [url=http://www.eve-search.com/search/author/Loki Agathon]Eve Search[/url] | [url=http://eve.battleclinic.com/killboard/combat_record.php?type=player&name=Loki Agathon]Battle Clinic Killboard[/url]
+
+[b]Attributes[/b]
+Intelligence: 20
+Memory: 20
+Charisma: 19
+Perception: 20
+Willpower: 20
+
+[b]Implants[/b]:
+[i]No implants found[/i]
+
+[b]Skills[/b]
+[i]Armor[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Hull Upgrades
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Mechanics
+
+[i]Corporation Management[/i]
+No skills found
+
+[i]Drones[/i]
+No skills found
+
+[i]Electronic Systems[/i]
+No skills found
+
+[i]Engineering[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] CPU Management
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Power Grid Management
+
+[i]Gunnery[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Gunnery
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Small Energy Turret
+
+[i]Leadership[/i]
+No skills found
+
+[i]Missiles[/i]
+No skills found
+
+[i]Navigation[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Navigation
+
+[i]Neural Enhancement[/i]
+No skills found
+
+[i]Planet Management[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Command Center Upgrades
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Interplanetary Consolidation
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Remote Sensing
+
+[i]Production[/i]
+No skills found
+
+[i]Resource Processing[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level2.gif[/img] Mining
+
+[i]Rigging[/i]
+No skills found
+
+[i]Scanning[/i]
+No skills found
+
+[i]Science[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Science
+
+[i]Shields[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level0.gif[/img] Shield Upgrades
+
+[i]Social[/i]
+No skills found
+
+[i]Spaceship Command[/i]
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Amarr Frigate
+[img]http://myeve.eve-online.com/bitmaps/character/level1.gif[/img] Amarr Industrial
+[img]http://myeve.eve-online.com/bitmaps/character/level3.gif[/img] Spaceship Command
+
+[i]Subsystems[/i]
+No skills found
+
+[i]Targeting[/i]
+No skills found
+
+[i]Trade[/i]
+No skills found
+
+
